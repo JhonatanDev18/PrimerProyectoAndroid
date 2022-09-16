@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Projeckt #1</string>
+    <string name="saludo_app">Willkommen</string>
+    <string name="btn_principal">Betreten</string>
+</resources>

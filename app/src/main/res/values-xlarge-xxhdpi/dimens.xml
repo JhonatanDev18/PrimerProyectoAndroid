@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="txt_titulos_size">60dp</dimen>
+    <dimen name="btn_size">48dp</dimen>
+</resources>
